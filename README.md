@@ -1,3 +1,3 @@
 # Surrounding Audio Visualization App For Hearing Impared
 
-An App that will help people with hard of hearing to visualize the sounds around them especially those coming from out of their field of vision.
+The mobile application developed for the hearing impaired is designed to enhance user safety and independence by providing real-time audio alerts and speech-to-text transcription. Integrated with a smart wearable device, the app classifies critical environmental sounds like car horns and sirens, displaying their type and proximity to the user. Built with Flutter, the app also offers customizable alerts for specific keywords, a user-friendly interface for viewing sound classifications, and real-time speech transcription in multiple languages, making it an essential tool for daily navigation and communication.
